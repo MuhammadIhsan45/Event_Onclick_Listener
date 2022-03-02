@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan kedua Event by Ihsan</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="btnLogin">Sign
+    </string>
+
+</resources>
